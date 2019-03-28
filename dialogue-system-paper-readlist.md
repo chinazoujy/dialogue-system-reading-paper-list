@@ -61,6 +61,7 @@
 	- Guo, Daya, et al. **“Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base.”** NIPS 2018: The 32nd Annual Conference on Neural Information Processing Systems, 2018, pp. 2946–2955
 	- Fan Wang Jinhua Peng Hua Wu Rongzhong Lian, Min Xie. **Learning to select knowledge for response generation in dialog systems.** arXiv preprint arXiv:1902.04911, 2019.
 	- Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli, and Jason Weston. **Wizard of wikipedia: Knowledge-powered conversational agents.** arXiv preprint arXiv:1811.01241, 2018
+	- Nikita Moghe, Siddhartha Arora, Suman Banerjee, and Mitesh M Khapra. **Towards exploiting background knowledge for building conversation systems.** arXiv preprint arXiv:1809.08205,2018.
 	
 - 基于GAN的对话系统  
 	- Xu Z, Liu B, Wang B, et al. **Neural Response Generation via GAN with an Approximate Embedding Layer.**[C]. empirical methods in natural language processing, 2017: 617-626.
