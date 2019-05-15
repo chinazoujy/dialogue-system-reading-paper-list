@@ -1,5 +1,17 @@
 # Grammar Error Correct #
 
+* 2019 [Choosing the Right Word: Using Bidirectional LSTM Tagger for Writing Support Systems](https://arxiv.org/pdf/1901.02490v1.pdf)
+
+   model:
+
+* 2019 [Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://arxiv.org/pdf/1903.00138v2.pdf)
+
+   model:
+
+* 2019 [Generate, Filter, and Rank: Grammaticality Classification for Production-Ready NLG Systems](https://arxiv.org/pdf/1904.03279v2.pdf)
+
+   model: 
+
 * 2018 [A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction](https://arxiv.org/pdf/1801.08831v1.pdf)  
 
    model: CNN Seq2Seq
@@ -20,6 +32,13 @@
 
    model: CNN Seq2Seq + Fluency Boost
 
+* 2018 [Reference-less Measure of Faithfulness for Grammatical Error Correction](https://arxiv.org/pdf/1804.03824v4.pdf)
+
+   model: 
+
+* 2018 [Wronging a Right: Generating Better Errors to Improve Grammatical Error Detection](https://aclweb.org/anthology/D18-1541)
+
+   model: 
 
 * 2017 [Automatic Annotation and Evaluation of Error Types for Grammatical Error Correction](https://aclweb.org/anthology/P17-1074)
 
@@ -29,3 +48,16 @@
 
    model:
    
+* 2017 [Systematically Adapting Machine Translation for Grammatical Error Correction](https://aclweb.org/anthology/W17-5039)
+
+   model:
+   
+* 2016 [Reassessing the Goals of Grammatical Error Correction: Fluency Instead of Grammaticality](https://aclweb.org/anthology/Q16-1013)
+
+   model:
+   
+* 2015 [Towards a standard evaluation method for grammatical error detection and correction](https://aclweb.org/anthology/N15-1060)
+
+   model:
+   
+
