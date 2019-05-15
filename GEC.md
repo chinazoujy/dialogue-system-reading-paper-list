@@ -40,6 +40,14 @@
 
    model: 
 
+* 2018 [A Reassessment of Reference-Based Grammatical Error Correction Metrics](https://aclweb.org/anthology/C18-1231)
+
+   model:
+   
+ * 2018 [Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Models](https://arxiv.org/pdf/1805.11189v1.pdf)
+ 
+   model: 
+
 * 2017 [Automatic Annotation and Evaluation of Error Types for Grammatical Error Correction](https://aclweb.org/anthology/P17-1074)
 
    model: 
@@ -53,6 +61,10 @@
    model:
    
 * 2016 [Reassessing the Goals of Grammatical Error Correction: Fluency Instead of Grammaticality](https://aclweb.org/anthology/Q16-1013)
+
+   model:
+
+* 2016 [Neural Network Translation Models for Grammatical Error Correction](https://arxiv.org/pdf/1606.00189v1.pdf)
 
    model:
    
